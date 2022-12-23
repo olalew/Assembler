@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "h5EoHk8FES28eqAsrIFfgNbGDvKmChbWVDXCqdcPYm3SG+bJqF9c/tk/9HfbAYWjO4JuT0DhuQrtzAuF5Svbeg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\olale\\source\\repos\\ImageResizingSolution\\ImageResizing\\ImageResizing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olale\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\olale\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\olale\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,90 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\olale\\source\\repos\\ImageResizingSolution\\ImageResizing\\ImageResizing.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\olale\\source\\repos\\ImageResizingSolution\\ImageResizingASM\\ImageResizingASM.vcxproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\olale\\source\\repos\\ImageResizingSolution\\ImageResizingASM\\ImageResizingASM.vcxproj",
+        "projectName": "ImageResizingASM",
+        "projectPath": "C:\\Users\\olale\\source\\repos\\ImageResizingSolution\\ImageResizingASM\\ImageResizingASM.vcxproj"
+      },
+      "frameworks": {
+        "native": {}
+      }
+    },
+    "C:\\Users\\olale\\source\\repos\\ImageResizingSolution\\ImageResizing\\ImageResizing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\olale\\source\\repos\\ImageResizingSolution\\ImageResizing\\ImageResizing.csproj",
+        "projectName": "ImageResizing",
+        "projectPath": "C:\\Users\\olale\\source\\repos\\ImageResizingSolution\\ImageResizing\\ImageResizing.csproj",
+        "packagesPath": "C:\\Users\\olale\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\olale\\source\\repos\\ImageResizingSolution\\ImageResizing\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\olale\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {
+              "C:\\Users\\olale\\source\\repos\\ImageResizingSolution\\ImageResizingASM\\ImageResizingASM.vcxproj": {
+                "projectPath": "C:\\Users\\olale\\source\\repos\\ImageResizingSolution\\ImageResizingASM\\ImageResizingASM.vcxproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "dependencies": {
+            "System.Drawing.Common": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
